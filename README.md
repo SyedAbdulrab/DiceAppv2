@@ -1,16 +1,6 @@
-# maximillian_test1
+# Dice-AppV2.0
 
-A new Flutter project.
+- An interactive Dice app with a mesmerizing color theme made with love [& Dart]!
 
-## Getting Started
+![image](https://github.com/SyedAbdulrab/DiceAppv2/assets/99114574/58b29852-0645-4e40-9eac-562fba7983fb)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
